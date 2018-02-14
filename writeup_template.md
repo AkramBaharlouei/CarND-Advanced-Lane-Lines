@@ -67,7 +67,7 @@ I verified that my perspective transform was working as expected by drawing the 
 
 I used sliding window as suggested in the class to find the first line fit. Then applied "search through previous window". 
 
-![alt text][image5]
+
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
